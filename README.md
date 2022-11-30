@@ -3,9 +3,11 @@
 ## Hi there 👋, I'm yunhyuk
 
 <img src="https://user-images.githubusercontent.com/95832831/204812249-53917a5d-15b1-4779-a570-2c6fb1b75413.png" width="850" height="340"/>
+</div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeyunhyuk&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunhyuk&layout=compact&theme=tokyonight)
   
+<div align="center">
   
 ## ✨ Tech Stack ✨
 ⚠️Caution | it might not be good⚠️
