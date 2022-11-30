@@ -2,10 +2,11 @@
 
 ## Hi there 👋, I'm yunhyuk
 
-<img src="https://user-images.githubusercontent.com/95832831/204812249-53917a5d-15b1-4779-a570-2c6fb1b75413.png" width="840" height="360"/>
+<img src="https://user-images.githubusercontent.com/95832831/204823699-39eddc8c-1f16-4f6f-a2e2-8d4fffc9ee27.png" width="840" height="280"/>
 
 
-<a href="https://github.com/leeyunhyuk"><img align="center" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=leeyunhyuk&show_icons=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /> <a href="https://github.com/leeyunhyuk"><img align="center" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunhyuk&layout=compact&theme=tokyonight&hide_border=true" />
+
+<a href="https://github.com/leeyunhyuk"><img align="center" style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=leeyunhyuk&show_icons=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /> <a href="https://github.com/leeyunhyuk"><img align="center" style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunhyuk&layout=compact&theme=nord&hide_border=true" />
   
   
 
