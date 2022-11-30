@@ -1,15 +1,15 @@
 <div align="center">
 
 ## Hi there 👋, I'm yunhyuk
+</div>
+<img src="https://user-images.githubusercontent.com/95832831/204812249-53917a5d-15b1-4779-a570-2c6fb1b75413.png" width="800" height="360"/>
 
-<img src="https://user-images.githubusercontent.com/95832831/204812249-53917a5d-15b1-4779-a570-2c6fb1b75413.png" width="1000" height="360"/>
 
-
-<a href="https://github.com/leeyunhyuk"><img align="center" style="height:169px;" src="https://github-readme-stats.vercel.app/api?username=leeyunhyuk&show_icons=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /> <a href="https://github.com/leeyunhyuk"><img align="center" style="height:169px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunhyuk&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/leeyunhyuk"><img align="center" style="height:160px;" src="https://github-readme-stats.vercel.app/api?username=leeyunhyuk&show_icons=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /> <a href="https://github.com/leeyunhyuk"><img align="center" style="height:160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunhyuk&layout=compact&theme=tokyonight&hide_border=true" />
   
   
 
-
+<div align="center">
 ## ✨ Tech Stack ✨
 ⚠️Caution | it might not be good⚠️
   
