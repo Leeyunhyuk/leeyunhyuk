@@ -5,8 +5,7 @@
 <img src="https://user-images.githubusercontent.com/95832831/204812249-53917a5d-15b1-4779-a570-2c6fb1b75413.png" width="1000" height="360"/>
 </div>
 
-<a href="https://github.com/leeyunhyuk"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=leeyunhyuk&show_icons=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/leeyunhyuk"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunhyuk&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+<a href="https://github.com/leeyunhyuk"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=leeyunhyuk&show_icons=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> <a href="https://github.com/leeyunhyuk"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunhyuk&layout=compact&theme=tokyonight&hide_border=true" /></a> 
   
 <div align="center">
   
