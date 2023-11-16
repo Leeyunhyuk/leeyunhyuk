@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=이윤혁의%20GitHub&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Leeyunhyuk%20GitHub&fontSize=70" />
   
 ## 안녕하세요 이윤혁입니다.👋
 
