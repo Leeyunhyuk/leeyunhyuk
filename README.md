@@ -16,9 +16,15 @@
   
 ## ✨ 기술 스택✨
   
-__`인프라`__ :  <img src="https://img.shields.io/badge/Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/ArgoCD-white?style=flat-square&logo=Argo&logoColor=EF7B4D"/> <img src="https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=Jenkins&logoColor=D24939"/>
-__`프로그래밍 언어`__ : <img src="https://img.shields.io/badge/Golang-white?style=flat-square&logo=Go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=Cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=3776AB"/>
-__`데이터베이스`__ : <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=4479A1"/>
-__`형상 관리 도구`__ :  <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=F05032"/>
-__`운영 체제`__ :  <img src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=Linux&logoColor=black"/>
-__`도구(편집기)`__ : <img src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=Vim&logoColor=019733"/> <img src="https://img.shields.io/badge/VS Code-white?style=flat-square&logo=VisualStudioCode&logoColor=007ACC"/>
+__`인프라`__ :  <img src="https://img.shields.io/badge/Kubernetes-DCDCDC?style=flat-square&logo=kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Docker-DCDCDC?style=flat-square&logo=Docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/ArgoCD-DCDCDC?style=flat-square&logo=Argo&logoColor=EF7B4D"/> <img src="https://img.shields.io/badge/Jenkins-DCDCDC?style=flat-square&logo=Jenkins&logoColor=D24939"/>
+
+__`프로그래밍 언어`__ : <img src="https://img.shields.io/badge/Golang-DCDCDC?style=flat-square&logo=Go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/C++-DCDCDC?style=flat-square&logo=Cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-DCDCDC?style=flat-square&logo=Python&logoColor=3776AB"/>
+
+__`데이터베이스`__ : <img src="https://img.shields.io/badge/MySQL-DCDCDC?style=flat-square&logo=MySQL&logoColor=4479A1"/>
+
+__`형상 관리 도구`__ :  <img src="https://img.shields.io/badge/Git-DCDCDC?style=flat-square&logo=Git&logoColor=F05032"/>
+
+__`운영 체제`__ :  <img src="https://img.shields.io/badge/Linux-DCDCDC?style=flat-square&logo=Linux&logoColor=black"/>
+
+__`도구(편집기)`__ : <img src="https://img.shields.io/badge/Vim-DCDCDC?style=flat-square&logo=Vim&logoColor=019733"/> <img src="https://img.shields.io/badge/VS Code-DCDCDC?style=flat-square&logo=VisualStudioCode&logoColor=007ACC"/>
+
