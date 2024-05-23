@@ -15,6 +15,10 @@
 
   
 ## ✨ 기술 스택✨
-⚠️Caution | It might not be good⚠️
   
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-F8C517?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
+__`인프라`__ :  <img src="https://img.shields.io/badge/Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/ArgoCD-white?style=flat-square&logo=Argo&logoColor=EF7B4D"/> <img src="https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=Jenkins&logoColor=D24939"/>
+__`프로그래밍 언어`__ : <img src="https://img.shields.io/badge/Golang-white?style=flat-square&logo=Go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=Cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=3776AB"/>
+__`데이터베이스`__ : <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=4479A1"/>
+__`형상 관리 도구`__ :  <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=F05032"/>
+__`운영 체제`__ :  <img src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=Linux&logoColor=black"/>
+__`도구(편집기)`__ : <img src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=Vim&logoColor=019733"/> <img src="https://img.shields.io/badge/VS Code-white?style=flat-square&logo=VisualStudioCode&logoColor=007ACC"/>
