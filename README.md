@@ -22,7 +22,7 @@ __`프로그래밍 언어`__ : <img src="https://img.shields.io/badge/Golang-DCD
 
 __`데이터베이스`__ : <img src="https://img.shields.io/badge/MySQL-DCDCDC?style=flat-square&logo=MySQL&logoColor=4479A1"/>
 
-__`형상 관리 도구`__ :  <img src="https://img.shields.io/badge/Git-DCDCDC?style=flat-square&logo=Git&logoColor=F05032"/>
+__`형상 관리 도구`__ :  <img src="https://img.shields.io/badge/Git-DCDCDC?style=flat-square&logo=Git&logoColor=F05032"/>
 
 __`운영 체제`__ :  <img src="https://img.shields.io/badge/Linux-DCDCDC?style=flat-square&logo=Linux&logoColor=black"/>
 
